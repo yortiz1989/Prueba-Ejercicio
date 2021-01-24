@@ -1,0 +1,10 @@
+C:\Users\YORTIZ\Desktop\Pruebas\proyectoprueba\proyectoprueba\bin\Debug\proyectoprueba.exe.config
+C:\Users\YORTIZ\Desktop\Pruebas\proyectoprueba\proyectoprueba\bin\Debug\proyectoprueba.exe
+C:\Users\YORTIZ\Desktop\Pruebas\proyectoprueba\proyectoprueba\bin\Debug\proyectoprueba.pdb
+C:\Users\YORTIZ\Desktop\Pruebas\proyectoprueba\proyectoprueba\obj\Debug\proyectoprueba.csprojAssemblyReference.cache
+C:\Users\YORTIZ\Desktop\Pruebas\proyectoprueba\proyectoprueba\obj\Debug\proyectoprueba.Form1.resources
+C:\Users\YORTIZ\Desktop\Pruebas\proyectoprueba\proyectoprueba\obj\Debug\proyectoprueba.Properties.Resources.resources
+C:\Users\YORTIZ\Desktop\Pruebas\proyectoprueba\proyectoprueba\obj\Debug\proyectoprueba.csproj.GenerateResource.cache
+C:\Users\YORTIZ\Desktop\Pruebas\proyectoprueba\proyectoprueba\obj\Debug\proyectoprueba.csproj.CoreCompileInputs.cache
+C:\Users\YORTIZ\Desktop\Pruebas\proyectoprueba\proyectoprueba\obj\Debug\proyectoprueba.exe
+C:\Users\YORTIZ\Desktop\Pruebas\proyectoprueba\proyectoprueba\obj\Debug\proyectoprueba.pdb
